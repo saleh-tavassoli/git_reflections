@@ -5,6 +5,8 @@ What value do you think it offers?
 - Staging area is an intermediate place between working directory and a snapshot of your working directory on the repository which can be created by git commit.
 Git lets you to decide what exactly you would like to commit.
 
+I made a change.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
